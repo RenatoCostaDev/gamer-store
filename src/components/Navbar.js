@@ -6,7 +6,7 @@ const Navbar = () => {
     <>
         <nav className="navbar navbar-expand-lg primary-bg-color py-4 px-2" id="navbar">
           <div className="container">
-            <a className="navbar-brand" href="#">Gamer Store</a>
+            <a className="navbar-brand" href="https://github.com/RenatoCostaDev">Gamer Store</a>
             <div id="navbar-items">
               <div></div>
               <form className="d-flex" id="search-form">
@@ -16,13 +16,13 @@ const Navbar = () => {
               </form>
               <ul className="navbar-nav mb-2 mb-lg-0 justify-content-evenly">
                 <li className="nav-item">
-                  <a className="nav-link" href="#">
+                  <a className="nav-link" href="https://github.com/RenatoCostaDev">
                     <i className="bi bi-person icon-ul"></i>
                   </a>
                   <h5>Conta</h5>
                 </li>
                 <li className="nav-item" id="bag-item">
-                  <a className="nav-link" href="#">
+                  <a className="nav-link" href="https://github.com/RenatoCostaDev">
                     <i className="bi bi-bag icon-ul"></i>
                   </a>
                   <h5>Compras</h5>
@@ -39,27 +39,27 @@ const Navbar = () => {
             </button>
             <ul className="navbar-nav mb-2 mb-lg-0 collapse navbar-collapse" id="bottom-navbar">
               <li className="nav-item">
-                <a className="nav-link" href="#">
+                <a className="nav-link" href="https://github.com/RenatoCostaDev">
                   Home
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#">
+                <a className="nav-link" href="https://github.com/RenatoCostaDev">
                   Produtos
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#">
+                <a className="nav-link" href="https://github.com/RenatoCostaDev">
                   Promoções
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#">
+                <a className="nav-link" href="https://github.com/RenatoCostaDev">
                   Blog
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#">
+                <a className="nav-link" href="https://github.com/RenatoCostaDev">
                   Contato
                 </a>
               </li>

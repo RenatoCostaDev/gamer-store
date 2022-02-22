@@ -16,7 +16,7 @@ const Cards = ({pokemons}) => {
                                         <p class="card-category secondary-color">Card</p>
                                         <h5 class="card-title">{name}</h5>
                                         <p class="card-text primary-color">Tipo : {type}</p>
-                                        <a href="#" class="btn btn-primary">Comprar</a>
+                                        <a href="https://github.com/RenatoCostaDev" class="btn btn-primary">Comprar</a>
                                       </div>
                                     </div>
                                 </div>
