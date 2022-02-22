@@ -1,0 +1,23 @@
+/*
+=============== 
+Variables
+===============
+*/
+$fontFamily: "Montserrat", sans-serif;
+$color: #fff;
+$background-color: #252525;
+$secondary-color-bg: #c09578;
+$light-bg-color: #fcf5eb;
+$color-navbar: #fff5f5;
+$secondary-color: #626262;
+$dark-bg-color: #101010;
+
+@mixin centerItens($position) {
+  align-items: center;
+  display: flex;
+  justify-content: $position;
+}
+@mixin margin-padding($marg, $padd) {
+  margin: $marg;
+  padding: $padd;
+}
